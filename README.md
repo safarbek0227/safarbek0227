@@ -13,9 +13,9 @@
 </br>
 
 ## About me
-
-- 🌱 I’m currently learning **[Vue3](https://vuejs.org)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
+-  My name is Safarbek
+- 🧑‍💼 I'm  freelancer
+- ✉️ <a href='mailto:solijonovsafarbek@gmail.com'>Contact me</a>
 
 
 # Technology stack
