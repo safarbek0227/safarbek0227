@@ -57,3 +57,15 @@
 
 ## **Most Used Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safarbek0227&layout=compact&theme=highcontrast)](https://github.com/safarbek0227/github-readme-stats)
+
+
+ Telefonda raqam terish
+
+s = input()
+order = [[4, 2], [1, 1], [1, 2], [1, 3], [2, 1],
+         [2, 2], [2, 3], [3, 1], [3, 2], [3, 3]]
+for i in range(1, len(s)):
+    if abs(order[int(s[i - 1])][0] - order[int(s[i])][0]) + abs(order[int(s[i - 1])][1] - order[int(s[i])][1]) != 1:
+        print("NO")
+        exit()
+print("YES")
