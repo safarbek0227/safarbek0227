@@ -69,3 +69,9 @@ for i in range(1, len(s)):
         print("NO")
         exit()
 print("YES")
+
+
+
+
+
+93 668 13 63
