@@ -33,8 +33,6 @@
 
 ---
 
-### 😂 Random Dev Meme
-![Random Dev Meme](https://memer-new.vercel.app/)
 
 ---
 
